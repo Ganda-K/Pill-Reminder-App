@@ -1,3 +1,4 @@
+**PILL REMAINDER APP**
 A pill reminder app is a program that helps users keep track of their medication schedules by providing reminders to take their pills on time. Here is a detailed explanation of how a basic pill reminder app works:
 
 1. User inputs medication information: The user inputs information about their medications, including the name of the medication, dosage, frequency, and time of day they need to take it.
